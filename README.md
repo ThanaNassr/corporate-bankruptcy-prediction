@@ -1,8 +1,5 @@
-# corporate-bankruptcy-prediction
-Machine learning models for corporate bankruptcy prediction using Compustat financial data and U.S. Federal Judicial Center bankruptcy filings.
-
-
 # Bankruptcy Prediction Dissertation
+Machine learning models for corporate bankruptcy prediction using Compustat financial data and U.S. Federal Judicial Center bankruptcy filings.
 
 This repository contains the code, analysis, and documentation for my dissertation on corporate bankruptcy prediction using machine learning.
 
