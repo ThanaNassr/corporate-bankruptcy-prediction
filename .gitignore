@@ -30,3 +30,6 @@ models/
 
 # Logs
 *.log
+
+#text files for notes
+Technical\ Next\ Steps.txt
